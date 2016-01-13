@@ -15,9 +15,10 @@ public class DestroyByContact : MonoBehaviour {
 
 			// item drop
 			if (tag == "Enemy") {
-				// drop item 10% of time
-
+				// drop item 50% of time
+				if (Random.value > 0.5) {
 					Instantiate (item, transform.position, transform.rotation);
+				}
 
 			}
 

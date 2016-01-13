@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7371F333-D639-96B9-A645-C9E5338B7B7C}</ProjectGuid>
+    <ProjectGuid>{5F11211F-5D45-4717-ED1E-7855D52A41B8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,7 +62,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="XInputDotNetPure">
- <HintPath>/Users/briandegman/Unity/2d Shooter Prototype/Assets/Plugins/x86_64/XInputDotNetPure.dll</HintPath>
+ <HintPath>/Users/briandegman/Unity/shoot-everything/Assets/Plugins/x86_64/XInputDotNetPure.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
