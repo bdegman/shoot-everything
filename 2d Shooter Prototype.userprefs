@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ItemPickUp.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Boundary.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="16" Column="3" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="73" Column="3" />
+      <File FileName="Assets/Scripts/ShotMover.cs" Line="17" Column="17" />
+      <File FileName="Assets/Scripts/EnemyMover.cs" Line="11" Column="45" />
+      <File FileName="Assets/Scripts/AimerController.cs" Line="18" Column="21" />
+      <File FileName="Assets/Scripts/DestroyByContact.cs" Line="17" Column="8" />
+      <File FileName="../2D Demo project/Assets/Scripts/Player.cs" Line="40" Column="42" />
+      <File FileName="Assets/Scripts/ItemPickUp.cs" Line="23" Column="5" />
+      <File FileName="Assets/Scripts/WeaponProperties.cs" Line="4" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2d Shooter Prototype" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ItemPickUp.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/briandegman/Unity/2d Shooter Prototype/Assets/Scripts/PlayerController.cs" line="147" column="1" />
+      <Breakpoint file="/Users/briandegman/Unity/2d Shooter Prototype/Assets/Scripts/PlayerController.cs" line="136" column="27" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
