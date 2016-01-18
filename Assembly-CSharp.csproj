@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\EnemyMover.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\HazardMover.cs" />
+     <Compile Include="Assets\Scripts\HazardSpawner.cs" />
      <Compile Include="Assets\Scripts\ItemPickUp.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\ShotMover.cs" />
