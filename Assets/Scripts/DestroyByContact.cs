@@ -4,20 +4,28 @@ using System.Collections;
 public class DestroyByContact : MonoBehaviour {
 
 	public GameObject item;
+	public GameObject item2;
 
 	void OnTriggerEnter2D(Collider2D other) {
 
-		if (other.tag == "Player" || tag == "Player" || other.tag == "Shot" || tag == "Shot") {
+		if (other.tag == "Player" || other.tag == "Shot" || other.tag == "SniperShot") {
 			
 			// destroy objects
-			Destroy (other.gameObject);
+			if (other.tag != "SniperShot") {
+				Destroy (other.gameObject);
+			}
 			Destroy (gameObject);
 
 			// item drop
 			if (tag == "Enemy") {
 				// drop item 50% of time
-				if (Random.value > 0.5) {
-					Instantiate (item, transform.position, transform.rotation);
+				float rnd = Random.value;
+				if (rnd > 0.5) {
+					if (rnd > 0.75) {	
+						Instantiate (item, transform.position, transform.rotation);
+					} else {
+						Instantiate (item2, transform.position, transform.rotation);
+					}
 				}
 
 			}
