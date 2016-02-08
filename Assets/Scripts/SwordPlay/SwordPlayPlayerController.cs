@@ -34,7 +34,7 @@ public class SwordPlayPlayerController : MonoBehaviour {
 	private Rigidbody2D rb2d;
 	public float speed;
 	public float maxSpeed;
-
+	public float jumpSpeed;
 
 	// ground check vars
 	private bool grounded;
@@ -60,6 +60,10 @@ public class SwordPlayPlayerController : MonoBehaviour {
 
 			// move player horizontally
 			rb2d.AddForce (moveHorizontal * speed);
+
+			if (Input.GetButtonDown ("A") && grounded) {
+				rb2d.AddForce (jumpSpeed * transform.up);
+			}
 
 
 		} else {
@@ -94,7 +98,6 @@ public class SwordPlayPlayerController : MonoBehaviour {
 		Vector2 groundPos = new Vector2(groundCheck.transform.position.x, groundCheck.transform.position.y);
 		grounded = Physics2D.Linecast(playerPos , groundPos , 1 << LayerMask.NameToLayer("Ground"));
 
-
 		// attacking
 		joyHorizontal = Input.GetAxis("RightJoystickX");
 		joyVertical = Input.GetAxis("RightJoystickY");
@@ -107,6 +110,7 @@ public class SwordPlayPlayerController : MonoBehaviour {
 			isMoving = false;
 		}
 
+
 		// check to see if stick is rotating
 		if (Mathf.Abs (Mathf.Abs (currentAngle) - Mathf.Abs (previousAngle)) > 10) {
 			isRotating = true;
@@ -116,7 +120,12 @@ public class SwordPlayPlayerController : MonoBehaviour {
 
 		if (isRotating || isMoving) {
 			float quadrant = CheckQuadrant (currentAngle);
-			StartCoroutine (Attack (quadrant));
+			SetQuadrantActive (quadrant);
+		} else {
+			rightAttack.SetActive (false);
+			leftAttack.SetActive (false);
+			upAttack.SetActive (false);
+			downAttack.SetActive (false);
 		}
 
 		previousAngle = Mathf.Atan2(joyVertical, joyHorizontal)  * Mathf.Rad2Deg;
@@ -125,7 +134,7 @@ public class SwordPlayPlayerController : MonoBehaviour {
 
 	}
 
-	IEnumerator Attack (float quadrant) {
+	void SetQuadrantActive (float quadrant) {
 		if (quadrant == 1) {
 			rightAttack.SetActive (true);
 		} else if (quadrant == 2) {
@@ -135,13 +144,6 @@ public class SwordPlayPlayerController : MonoBehaviour {
 		} else {
 			downAttack.SetActive (true);
 		}
-		yield return new WaitForSeconds (attackLength);
-
-		//turn off all attacks
-		rightAttack.SetActive (false);
-		leftAttack.SetActive (false);
-		upAttack.SetActive (false);
-		downAttack.SetActive (false);
 	}
 
 	public float CheckQuadrant (float angle) {
