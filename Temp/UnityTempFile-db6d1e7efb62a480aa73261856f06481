@@ -7,7 +7,7 @@
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
 -r:'Assets/Plugins/x86_64/XInputDotNetPure.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
--define:UNITY_5_3_1
+-define:UNITY_5_3_2
 -define:UNITY_5_3
 -define:UNITY_5
 -define:ENABLE_NEW_BUGREPORTER
@@ -88,6 +88,10 @@
 'Assets/Scripts/PlayerController.cs'
 'Assets/Scripts/ShotMover.cs'
 'Assets/Scripts/SniperShotMover.cs'
+'Assets/Scripts/SwordController.cs'
+'Assets/Scripts/SwordController2.cs'
+'Assets/Scripts/SwordPlay/AttackController.cs'
+'Assets/Scripts/SwordPlay/SwordPlayPlayerController.cs'
 'Assets/Scripts/WeaponProperties.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'

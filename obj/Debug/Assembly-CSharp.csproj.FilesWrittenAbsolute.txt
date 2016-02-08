@@ -11,3 +11,21 @@
 /Users/briandegman/Unity/2d Shooter Prototype/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/briandegman/Unity/2d Shooter Prototype/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/briandegman/Unity/2d Shooter Prototype/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/briandegman/Unity/shoot-everything/obj/Debug/Assembly-CSharp.dll
+/Users/briandegman/Unity/shoot-everything/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/UnityEngine.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/UnityEditor.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/XInputDotNetPure.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Mono.Cecil.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Unity.DataContract.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/briandegman/Unity/shoot-everything/Temp/bin/Debug/Assembly-CSharp.dll
