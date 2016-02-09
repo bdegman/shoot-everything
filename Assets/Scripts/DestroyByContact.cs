@@ -21,11 +21,7 @@ public class DestroyByContact : MonoBehaviour {
 				// drop item 50% of time
 				float rnd = Random.value;
 				if (rnd > 0.5) {
-					if (rnd > 0.75) {	
-						Instantiate (item, transform.position, transform.rotation);
-					} else {
-						Instantiate (item2, transform.position, transform.rotation);
-					}
+					Instantiate (item, transform.position, transform.rotation);
 				}
 
 			}

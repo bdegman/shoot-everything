@@ -6,6 +6,8 @@ public class SwordPlayPlayerController : MonoBehaviour {
 	// controller switch
 	public bool controllerEnabled;
 
+	private Animator animator;
+	private SpriteRenderer sprite;
 
 	// attack objects
 	public GameObject rightAttack;
@@ -36,6 +38,9 @@ public class SwordPlayPlayerController : MonoBehaviour {
 	public float maxSpeed;
 	public float jumpSpeed;
 
+	private bool right;
+	private bool left;
+
 	// ground check vars
 	private bool grounded;
 	public GameObject groundCheck;
@@ -49,6 +54,8 @@ public class SwordPlayPlayerController : MonoBehaviour {
 		downAttack.SetActive (false);
 
 		rb2d = gameObject.GetComponent <Rigidbody2D> ();
+		animator = GetComponent<Animator>();
+		sprite = GetComponent<SpriteRenderer> ();
 	}
 
 	void FixedUpdate () {
@@ -67,8 +74,8 @@ public class SwordPlayPlayerController : MonoBehaviour {
 
 
 		} else {
-			bool right = Input.GetKey ("d");
-			bool left = Input.GetKey ("a");
+			right = Input.GetKey ("d");
+			left = Input.GetKey ("a");
 
 			// move player horizontally
 			if (right){
@@ -88,6 +95,19 @@ public class SwordPlayPlayerController : MonoBehaviour {
 
 		if (rb2d.velocity.x < -maxSpeed) {
 			rb2d.velocity = new Vector2 (-maxSpeed, rb2d.velocity.y);
+		}
+
+		// set animatino
+		if (Mathf.Abs(rb2d.velocity.x) > 0) {
+			animator.SetBool ("isWalking", true);
+		} else {
+			animator.SetBool ("isWalking", false);
+		}
+
+		if (Mathf.Sign (rb2d.velocity.x) > 0 && Input.GetAxis ("LeftJoystickX") > 0) {
+			sprite.flipX = false;
+		} else if (Mathf.Sign (rb2d.velocity.x) < 0 && Input.GetAxis ("LeftJoystickX") < 0){
+			sprite.flipX = true;
 		}
 
 	}

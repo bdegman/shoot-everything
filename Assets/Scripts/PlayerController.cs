@@ -6,6 +6,8 @@ public class PlayerController : MonoBehaviour {
 	// controller switch
 	public bool controllerEnabled;
 
+	private Animator animator;
+
 	// weapon
 	public GameObject defaultWeapon;
 	public Transform shotSpawn;
@@ -47,6 +49,8 @@ public class PlayerController : MonoBehaviour {
 
 		SwitchWeapon (defaultWeapon);
 		StartCoroutine (Recharge ());
+
+		animator = GetComponentInChildren<Animator> ();
 	}
 
 	void Update () {
@@ -128,6 +132,14 @@ public class PlayerController : MonoBehaviour {
 
 		if (rb2d.velocity.x < -maxSpeed) {
 			rb2d.velocity = new Vector2 (-maxSpeed, rb2d.velocity.y);
+		}
+			
+
+		// set animatino
+		if (Mathf.Abs(rb2d.velocity.x) > 0) {
+			animator.SetBool ("isWalking", true);
+		} else {
+			animator.SetBool ("isWalking", false);
 		}
 			
 	}
