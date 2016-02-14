@@ -1,0 +1,1794 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"RightJoystickY"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"size",
+				"sizex"
+			],
+			[
+				"mous",
+				"mouseY"
+			],
+			[
+				"mouse",
+				"mouseX"
+			],
+			[
+				"elli",
+				"ellipse"
+			],
+			[
+				"si",
+				"sizex"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"v",
+				"View"
+			],
+			[
+				"cart",
+				"carthover"
+			],
+			[
+				"bottom",
+				"bottom"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"I",
+				"InOut"
+			],
+			[
+				"Tween",
+				"TweenType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/SwordController.cs",
+			"settings":
+			{
+				"buffer_size": 800,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/SwordController2.cs",
+			"settings":
+			{
+				"buffer_size": 1116,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/WeaponProperties.cs",
+			"settings":
+			{
+				"buffer_size": 167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/AimerController.cs",
+			"settings":
+			{
+				"buffer_size": 1547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Boundary.cs",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/DestroyByContact.cs",
+			"settings":
+			{
+				"buffer_size": 618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/EnemyMover.cs",
+			"settings":
+			{
+				"buffer_size": 326,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/GameController.cs",
+			"settings":
+			{
+				"buffer_size": 1311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/HazardMover.cs",
+			"settings":
+			{
+				"buffer_size": 467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/HazardSpawner.cs",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/ItemPickUp.cs",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/PlayerController.cs",
+			"settings":
+			{
+				"buffer_size": 3727,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/ShotMover.cs",
+			"settings":
+			{
+				"buffer_size": 401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/SniperShotMover.cs",
+			"settings":
+			{
+				"buffer_size": 406,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/SwordPlay/SwordPlayPlayerController.cs",
+			"settings":
+			{
+				"buffer_size": 5118,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/briandegman/Unity/shoot-everything/Assets/Scripts/SwordPlay/AttackController.cs",
+		"/Users/briandegman/Unity/shoot-everything/shooteverything.sublime-project",
+		"/Users/briandegman/sooloos/Client/ui/footer.broo",
+		"/Users/briandegman/sooloos/Client/ui/topbar.broo",
+		"/Users/briandegman/sooloos/Client/BrooModels/browser.cs",
+		"/Users/briandegman/sooloos/Client/ui/search.broo",
+		"/Users/briandegman/sooloos/Client/ui/composerbrowser.broo",
+		"/Users/briandegman/sooloos/Client/ui/matter.broo",
+		"/Users/briandegman/sooloos/Client/ui/styles.broo",
+		"/Users/briandegman/sooloos/Client/ui/phoneartistdetails",
+		"/Users/briandegman/sooloos/Client/ui/albumdetails.broo",
+		"/Users/briandegman/sooloos/Client/Desktop/remoting_debug.cs",
+		"/Users/briandegman/sooloos/Client/ui/phonealbumdetails.notbroo",
+		"/Users/briandegman/sooloos/Client/ui/phonediscover.broo",
+		"/Users/briandegman/sooloos/Client/ui/phonebrowser.broo",
+		"/Users/briandegman/projects/drink.beer/portfolio/index.html",
+		"/Users/briandegman/projects/drink.beer/sooloos./index.html",
+		"/Users/briandegman/projects/drink.beer/sooloos./home.html",
+		"/Users/briandegman/projects/drink.beer/your collection web/index.html",
+		"/Users/briandegman/projects/drink.beer/sooloos./page12.html",
+		"/Users/briandegman/projects/drink.beer/roon/page15.html",
+		"/Users/briandegman/projects/drink.beer/roon/page14.html",
+		"/Users/briandegman/projects/drink.beer/roon/page13.html",
+		"/Users/briandegman/projects/drink.beer/roon/page12.html",
+		"/Users/briandegman/projects/drink.beer/roon/page11.html",
+		"/Users/briandegman/projects/drink.beer/roon/page10.html",
+		"/Users/briandegman/projects/drink.beer/roon/page9.html",
+		"/Users/briandegman/projects/drink.beer/roon/page8.html",
+		"/Users/briandegman/projects/drink.beer/roon/page7.html",
+		"/Users/briandegman/projects/drink.beer/roon/page6.html",
+		"/Users/briandegman/projects/drink.beer/roon/page5.html",
+		"/Users/briandegman/projects/drink.beer/roon/page4.html",
+		"/Users/briandegman/projects/drink.beer/roon/page3.html",
+		"/Users/briandegman/projects/drink.beer/roon/page2.html",
+		"/Users/briandegman/sooloos/Client/Themes/Creamsicle/colors",
+		"/Users/briandegman/projects/writing/robot_god",
+		"/Users/briandegman/sooloos/Client/BrooModels/edit.cs",
+		"/Users/briandegman/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/briandegman/sooloos/Client/ui/tidal.broo",
+		"/Users/briandegman/sooloos/Client/ui/albumbrowser.broo",
+		"/Users/briandegman/sooloos/Client/Themes/Darkred/colors",
+		"/Users/briandegman/sooloos/Client/Themes/Light/colors",
+		"/Users/briandegman/sooloos/Client/Desktop/b",
+		"/Users/briandegman/sooloos/Client/BrooModels/root.cs",
+		"/Users/briandegman/sooloos/Client/BrooModels/browserbase.cs",
+		"/Users/briandegman/sooloos/Client/ui/ui.broo",
+		"/Users/briandegman/sooloos/Client/ui/settings.broo",
+		"/Users/briandegman/sooloos/Client/BrooModels/correction.cs",
+		"/Users/briandegman/sooloos/Client/ui/iheartradio.broo",
+		"/Users/briandegman/sooloos/Client/ui/phonepopups.broo",
+		"/Users/briandegman/sooloos/Client/ui/phonealbumdetails.notbroo.xml",
+		"/Users/briandegman/sooloos/Client/ui/genredetails.broo",
+		"/Users/briandegman/sooloos/Client/ui/artistdetails.broo",
+		"/Users/briandegman/sooloos/Client/ui/phonealbumdetails.broo",
+		"/Users/briandegman/sooloos/Client/Tablet/tablet_root.cs",
+		"/Users/briandegman/Desktop/videotest.html",
+		"/Users/briandegman/sooloos/Client/Themes/Sunrise/name",
+		"/Users/briandegman/sooloos/Client/ui/workbrowser.broo",
+		"/Users/briandegman/projects/drink.beer/portfolio/main/font-awesome/less/fixed-width.less",
+		"/Users/briandegman/projects/drink.beer/portfolio/main/index.html",
+		"/Users/briandegman/projects/drink.beer/portfolio/main/js/animation.js",
+		"/Users/briandegman/projects/drink.beer/experimental./css/bootstrap.css",
+		"/Users/briandegman/projects/drink.beer/portfolio/main/css/bootstrap.css",
+		"/Users/briandegman/projects/drink.beer/experimental./thumbnail-gallery.html",
+		"/Users/briandegman/projects/drink.beer/experimental./css/thumbnail-gallery.css",
+		"/Users/briandegman/projects/drink.beer/processing/index.html",
+		"/Users/briandegman/projects/drink.beer/portfolio/Manuel Sofia   Graphic Designer & Front End Developer..html",
+		"/Users/briandegman/projects/drink.beer/portfolio/test/index.html",
+		"/Users/briandegman/projects/drink.beer/portfolio/main/less/grayscale.less",
+		"/Users/briandegman/projects/drink.beer/your collection web/js/modern-business.js",
+		"/Users/briandegman/projects/drink.beer/your collection web/js/jquery-1.10.2.js",
+		"/Users/briandegman/projects/drink.beer/portfolio/001_js-mouse_follower/js/jquery-1.4.2.min.js",
+		"/Users/briandegman/Desktop/moopik_override",
+		"/Users/briandegman/sooloos/Client/BrooModels/accounts.cs",
+		"/Users/briandegman/sooloos/Client/Desktop/install/win-files/NSIS/Contrib/Language files/Arabic.nlf",
+		"/Users/briandegman/sooloos/Client/ui/textstyles.broo",
+		"/Users/briandegman/sooloos/Client/Themes/Tropical/colors",
+		"/Users/briandegman/sooloos/Client/BrooModels/themes.cs",
+		"/Users/briandegman/sooloos/Client/BrooModels/brokersettings.cs",
+		"/Users/briandegman/sooloos/Client/BrooModels/bin/debug/Sooloos.Rara.dll.mdb",
+		"/Users/briandegman/sooloos/Client/ui/drawables.broo",
+		"/Users/briandegman/sooloos/Client/ui/buttons.broo",
+		"/Users/briandegman/sooloos/Client/ui/pawmashers.broo",
+		"/Users/briandegman/sooloos/Client/ui/deezer.broo",
+		"/Users/briandegman/sooloos/Client/ui/services.broo",
+		"/Users/briandegman/sooloos/Client/ui/popups.broo",
+		"/Users/briandegman/sooloos/Client/ui/hack.broo",
+		"/Users/briandegman/sooloos/Client/ui/trackbrowser.broo",
+		"/Users/briandegman/sooloos/Client/ui/browser.broo",
+		"/Users/briandegman/sooloos/Client/ui/playlistbrowser.broo",
+		"/Users/briandegman/sooloos/Client/ui/main.broo",
+		"/Users/briandegman/sooloos/Client/ui/init.broo",
+		"/Users/briandegman/sooloos/Client/ui/fonts.broo",
+		"/Users/briandegman/sooloos/Client/ui/queue.broo",
+		"/Users/briandegman/sooloos/Client/ui/edit.broo",
+		"/Users/briandegman/sooloos/Client/ui/templates_menu.broo",
+		"/Users/briandegman/sooloos/Client/ui/playlistdetails.broo",
+		"/Users/briandegman/sooloos/Client/BrooModels/settings.cs",
+		"/Users/briandegman/sooloos/Client/ui/templates_dialog.broo",
+		"/Users/briandegman/sooloos/Client/ui/correction.broo",
+		"/Users/briandegman/sooloos/Client/ui/genres.broo",
+		"/Users/briandegman/sooloos/Client/ui/phoneartistdetails.broo",
+		"/Users/briandegman/sooloos/Client/ui/smalltabletalbumdetails.broo",
+		"/Users/briandegman/sooloos/Client/ui/smalltabletartistdetails.broo",
+		"/Users/briandegman/sooloos/Client/ui/tunein.broo",
+		"/Users/briandegman/sooloos/Client/ui/home.broo",
+		"/Users/briandegman/sooloos/Client/ui/workdetails.broo",
+		"/Users/briandegman/sooloos/Client/ui/composerdetails.broo",
+		"/Users/briandegman/sooloos/Client/ui/animations.broo",
+		"/Users/briandegman/sooloos/Client/ui/addmenu.broo",
+		"/Users/briandegman/sooloos/Client/ui/lang.xml",
+		"/Users/briandegman/sooloos/Client/BrooModels/languages.cs",
+		"/Users/briandegman/sooloos/Client/ui/header.broo",
+		"/Users/briandegman/sooloos/Client/MigrationTool/Windows/Properties/Settings.Designer.cs",
+		"/Users/briandegman/sooloos/Client/Desktop/bin/debug/Sooloos.app/Contents/Resources/ui_turkish.broox",
+		"/Users/briandegman/sooloos/Client/ui/desktopmain.broo",
+		"/Users/briandegman/sooloos/Client/ui/old_themes.broo",
+		"/Users/briandegman/projects/drink.beer/drinkbeer./index.html",
+		"/Users/briandegman/projects/drink.beer/BDEG.WEB/index.html",
+		"/Users/briandegman/sooloos/Client/ui/wizards.broo",
+		"/Users/briandegman/projects/drink.beer/ellison/boxes/home.html",
+		"/Users/briandegman/projects/drink.beer/ellison/boxes/page2.html",
+		"/Users/briandegman/projects/drink.beer/ellison/boxes/index.html",
+		"/Users/briandegman/sooloos/Client/ui/details.broo",
+		"/Users/briandegman/sooloos/Client/BrooModels/iheartradio.cs",
+		"/Users/briandegman/projects/drink.beer/sooloos./sooloos5/home.html",
+		"/Users/briandegman/sooloos/Client/BrooModels/details.cs",
+		"/Users/briandegman/Documents/workspace/QuotesByLarry/b"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/u",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/io",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/\\",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui",
+			"/Users/briandegman/sooloos/Client/",
+			"/Users/briandegman/sooloos/Client/ui"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"	",
+			"	\n\n	",
+			"\n\n	",
+			"win_alert",
+			"popup_bookmarks",
+			"bookmarksensitivity",
+			"format_track_secondary_line",
+			"albumdetails_alltracks_info",
+			"Also performed by",
+			"format_track_secondary_line",
+			"composer",
+			"kart",
+			"macro-pagegrid-dots-scrollbar-inline",
+			"dots",
+			"is_enabled",
+			"Genre Mapping",
+			"Export",
+			"export",
+			"ios",
+			"onboarding_indicator",
+			"onboarding",
+			"key",
+			"matter_pick_icon",
+			"pick",
+			"function save()",
+			"emulti",
+			"emany",
+			"macro-bulk-preference-field",
+			"playbackfeedbacktimer",
+			"timer",
+			"trigger",
+			"track_row_tidal_bg",
+			"newmarginleft",
+			"tidal",
+			"imageobj",
+			"format_track_secondary_line",
+			"waveform",
+			"queue_screensaver",
+			"savesensitivity",
+			"Edit Playlist",
+			"MYGMS.state.profile",
+			"v.state.profile",
+			"activeitem",
+			"timer",
+			"format_track_secondary_line",
+			"queue_track_geek_",
+			"s:queue_track_geek_",
+			"GMS_save_bookmark",
+			"function",
+			"format_track_secondary_line",
+			"albumdetails_unique_tracks_info",
+			"Composed by",
+			"format_track_secondary_line",
+			"size_big",
+			"dialog_export",
+			"dumpexcel",
+			"Export to an",
+			"Choose your library",
+			"app.is_dev",
+			"dialog_configure_devices",
+			"[ {",
+			"[",
+			"spinner",
+			"snipper",
+			"add_to_library",
+			"timer",
+			"time",
+			"label__text_add_to_library_timer",
+			"branding",
+			"notifications",
+			"alerts",
+			"generate(",
+			"win_alert",
+			"alerts",
+			"alerts.generate",
+			"alert",
+			"toast",
+			"timer",
+			"0,12,0,6",
+			"0,12,0,12",
+			"matter_button_grey_add_with_text",
+			"Add To Library",
+			"artist_images_dialog",
+			"OutOfSpace",
+			"File Exporter",
+			"Add Bookmark...",
+			"<param        name='count'        type='string' defaultvalue='undefined' />",
+			"macro-selection-bar",
+			"GMS_select_all",
+			"macro-selection-bar",
+			"Manage Bookmarks",
+			"First Run Page",
+			"T&C + PP",
+			"Edit Profile",
+			"Where do you keep",
+			"artist_images_dialog",
+			":tidalalbums",
+			":artistdetails",
+			"artistdetails",
+			"composerbrowser",
+			"component_genre_browser_view_all",
+			"genreviewall",
+			"tidal",
+			"component_tidal_view_albums",
+			"tidalalbums",
+			"list_combine",
+			"while",
+			"[]",
+			"list_combine",
+			"while",
+			"for ",
+			"for",
+			"[",
+			"for",
+			"wrappanel",
+			"macro-pagegrid-dots-scrollbar-inline",
+			"View All",
+			"showallparts",
+			"toggle_parts",
+			"collection",
+			"support",
+			"noadditionalimages",
+			"size_big",
+			"NotLoggedIn",
+			"label__text_error_saving_playlist",
+			"There was an error saving",
+			"disc",
+			"win_zone_volume"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"      ",
+			"    ",
+			"0,12,0,4",
+			"0,12,0,6",
+			"m",
+			"alert_button",
+			"info_alert_button",
+			"discovery",
+			"genres",
+			"discovery",
+			"albumdetails_alltracks_geek_text],",
+			"albumdetails_track_row_geek_text],",
+			"disconnect",
+			"MYGMS.state.description_expand",
+			"MYGMS.state.description_expand_margin",
+			"MYGMS.state.description_expand_content_height",
+			"MYGMS.state.bio_expanded_content_height",
+			"MYGMS.state.bio_expanded_margin",
+			"MYGMS.state.review_expanded_margin",
+			"MYGMS.state.bio_expanded_content_height",
+			"MYGMS.state.bio_expanded_margin",
+			"MYGMS.state.bio_expanded",
+			"bioexpandedmargin",
+			"bioexpandedcontentheight",
+			"MYGMS.state.description_expanded",
+			"MYGMS.state.bio_expanded",
+			"bioexpandedmargin",
+			"bioexpandedcontentheight",
+			"reviewexpandedmargin",
+			"MYGMS.state.review_expanded",
+			"description",
+			"t+",
+			"$header.size.height",
+			"component_phone_tag_details",
+			"review",
+			"toggle_compbio",
+			"description",
+			"review",
+			"padding='0,0,15,15'",
+			"padding='10,0,0,0'",
+			"",
+			"row",
+			"button",
+			"row",
+			"innerpadding='10,0,10,0'",
+			"component_phone_playlist_details",
+			"margin='-4",
+			"200",
+			"settingsmode",
+			"3dots",
+			"component_phone_search",
+			"composer.",
+			"component_phone_composer_details",
+			"albumdetails_",
+			"showdescription",
+			"workmode",
+			":phoneworkdetails",
+			"component_phone_work_details",
+			"component_phone_genre_browser",
+			":phonegenrebrowser",
+			"16,0,16",
+			"3dots",
+			"component_phone_artist_details",
+			":phoneartistdetails",
+			"row",
+			"item",
+			"",
+			"component_phone_album_details",
+			":phonealbumdetails",
+			"18-bold",
+			"phonebrowser",
+			"component_phone_browser",
+			"333333",
+			"ios",
+			"3dots_android_",
+			"9999",
+			"matter_button_edit",
+			"Edit",
+			"field",
+			"eq",
+			"undefined",
+			"",
+			"revert-edit",
+			"",
+			"field=",
+			"eq :Revert and",
+			"undefined",
+			"field=",
+			"field",
+			"undefined",
+			"",
+			"field=",
+			"color='#matter-grey3' ",
+			"",
+			"roon_icon",
+			"margin='1,4,0,0'",
+			"negative_red",
+			"positive_green",
+			"matter-x",
+			"tag_editor_cart_item",
+			"changed eq 1",
+			"purple",
+			"rating_user",
+			"grey4",
+			"",
+			"user",
+			"edit",
+			"hover",
+			"purple",
+			"user",
+			"matter",
+			"white",
+			"",
+			"ms600",
+			"director",
+			"apple_tv",
+			"z2",
+			"t7",
+			"a5",
+			"ms600",
+			"id40",
+			"model",
+			"bandw_a7",
+			"prime",
+			"win_endpoint_setting_description",
+			"Gsmall_covers",
+			"data.endpoint",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 14,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/SwordController.cs",
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/SwordController2.cs",
+					"settings":
+					{
+						"buffer_size": 1116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/WeaponProperties.cs",
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Scripts/AimerController.cs",
+					"settings":
+					{
+						"buffer_size": 1547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Assets/Scripts/Boundary.cs",
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Assets/Scripts/DestroyByContact.cs",
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Assets/Scripts/EnemyMover.cs",
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Assets/Scripts/GameController.cs",
+					"settings":
+					{
+						"buffer_size": 1311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Assets/Scripts/HazardMover.cs",
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Assets/Scripts/HazardSpawner.cs",
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Assets/Scripts/ItemPickUp.cs",
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Assets/Scripts/PlayerController.cs",
+					"settings":
+					{
+						"buffer_size": 3727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Assets/Scripts/ShotMover.cs",
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Assets/Scripts/SniperShotMover.cs",
+					"settings":
+					{
+						"buffer_size": 406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Assets/Scripts/SwordPlay/SwordPlayPlayerController.cs",
+					"settings":
+					{
+						"buffer_size": 5118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								704,
+								704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"swo",
+				"SwordPlay/SwordPlayPlayerController.cs"
+			],
+			[
+				"",
+				"GameController.cs"
+			],
+			[
+				"con",
+				"GameController.cs"
+			],
+			[
+				"aim",
+				"AimerController.cs"
+			],
+			[
+				"alert",
+				"alerts.broo"
+			],
+			[
+				"colo",
+				"/Users/briandegman/sooloos/Client/Themes/Creamsicle/colors"
+			],
+			[
+				"topbar",
+				"topbar.broo"
+			],
+			[
+				"main",
+				"main.broo"
+			],
+			[
+				"desk",
+				"desktopmain.broo"
+			],
+			[
+				"queue",
+				"queue.broo"
+			],
+			[
+				"art",
+				"artistdetails.broo"
+			],
+			[
+				"mat",
+				"matter.broo"
+			],
+			[
+				"sel",
+				"selectionbars.broo"
+			],
+			[
+				"al",
+				"albumdetails.broo"
+			],
+			[
+				"com",
+				"composerbrowser.broo"
+			],
+			[
+				"top",
+				"topbar.broo"
+			],
+			[
+				"ui",
+				"ui.broo"
+			],
+			[
+				"nav",
+				"nav.broo"
+			],
+			[
+				"log",
+				"login.broo"
+			],
+			[
+				"tid",
+				"tidal.broo"
+			],
+			[
+				"edi",
+				"edit.broo"
+			],
+			[
+				"sear",
+				"search.broo"
+			],
+			[
+				"queu",
+				"queue.broo"
+			],
+			[
+				"hom",
+				"home.broo"
+			],
+			[
+				"edit",
+				"edit.broo"
+			],
+			[
+				"pla",
+				"playlistbrowser.broo"
+			],
+			[
+				"phoneal",
+				"phonealbumdetails.broo"
+			],
+			[
+				"phone",
+				"phoneworkdetails.broo"
+			],
+			[
+				"phon",
+				"phonealbumdetails.broo"
+			],
+			[
+				"arti",
+				"artistbrowser.broo"
+			],
+			[
+				"tida",
+				"tidal.broo"
+			],
+			[
+				"que",
+				"queue.broo"
+			],
+			[
+				"sett",
+				"settings.broo"
+			],
+			[
+				"anim",
+				"animations.broo"
+			],
+			[
+				"matt",
+				"matter.broo"
+			],
+			[
+				"work",
+				"workdetails.broo"
+			],
+			[
+				"ar",
+				"artistdetails.broo"
+			],
+			[
+				"gen",
+				"genrebrowser.broo"
+			],
+			[
+				"foo",
+				"footer.broo"
+			],
+			[
+				"pop",
+				"popups.broo"
+			],
+			[
+				"imp",
+				"import.broo"
+			],
+			[
+				"pro",
+				"profiles.broo"
+			],
+			[
+				"topba",
+				"topbar.broo"
+			],
+			[
+				"alb",
+				"albumdetails.broo"
+			],
+			[
+				"focu",
+				"focus.broo"
+			],
+			[
+				"set",
+				"settings.broo"
+			],
+			[
+				"foc",
+				"focus.broo"
+			],
+			[
+				"add",
+				"addmenu.broo"
+			],
+			[
+				"col",
+				"/Users/briandegman/sooloos/Client/Themes/Creamsicle/colors"
+			],
+			[
+				"ini",
+				"init.broo"
+			],
+			[
+				"tag",
+				"tagdetails.broo"
+			],
+			[
+				"paw",
+				"pawmashers.broo"
+			],
+			[
+				"home",
+				"home.broo"
+			],
+			[
+				"foot",
+				"footer.broo"
+			],
+			[
+				"topb",
+				"topbar.broo"
+			],
+			[
+				"sele",
+				"selectionbars.broo"
+			],
+			[
+				"but",
+				"buttons.broo"
+			],
+			[
+				"in",
+				"inputstyles.broo"
+			],
+			[
+				"hac",
+				"hack.broo"
+			],
+			[
+				"sty",
+				"styles.broo"
+			],
+			[
+				"play",
+				"playlistdetails.broo"
+			],
+			[
+				"albu",
+				"albumdetails.broo"
+			],
+			[
+				"workd",
+				"workdetails.broo"
+			],
+			[
+				"font",
+				"fonts.broo"
+			],
+			[
+				"amin",
+				"animations.broo"
+			],
+			[
+				"exp",
+				"explore.broo"
+			],
+			[
+				"dek",
+				"desktopmain.broo"
+			],
+			[
+				"comp",
+				"composerdetails.broo"
+			],
+			[
+				"phonebro",
+				"phonebrowser.broo"
+			],
+			[
+				"pho",
+				"phonealbumdetails.broo"
+			],
+			[
+				"hist",
+				"historybrowser.broo"
+			],
+			[
+				"tra",
+				"trackbrowser.broo"
+			],
+			[
+				"gn",
+				"genrebrowser.broo"
+			],
+			[
+				"genre",
+				"genrebrowser.broo"
+			],
+			[
+				"phonequue",
+				"phonequeue.broo"
+			],
+			[
+				"phonear",
+				"phoneartistdetails.broo"
+			],
+			[
+				"phonegen",
+				"phonegenredetails.broo"
+			],
+			[
+				"phonetag",
+				"phonetagdetails.broo"
+			],
+			[
+				"phonegenre",
+				"phonegenredetails.broo"
+			],
+			[
+				"selec",
+				"selectionbars.broo"
+			],
+			[
+				"seel",
+				"smalltabletalbumdetails.notbroo"
+			],
+			[
+				"phonework",
+				"phoneworkdetails.broo"
+			],
+			[
+				"phonecom",
+				"phonecomposerdetails.broo"
+			],
+			[
+				"phonesear",
+				"phonesearch.broo"
+			],
+			[
+				"phonecomp",
+				"phonecomposerdetails.broo"
+			],
+			[
+				"phonet",
+				"phonetagdetails.broo"
+			],
+			[
+				"phonequeu",
+				"phonequeue.broo"
+			],
+			[
+				"det",
+				"details.broo"
+			],
+			[
+				"deta",
+				"details.broo"
+			],
+			[
+				"ad",
+				"addmenu.broo"
+			],
+			[
+				"phoneartist",
+				"phoneartistdetails.broo"
+			],
+			[
+				"ge",
+				"genrebrowser.broo"
+			],
+			[
+				"des",
+				"desktopmain.broo"
+			],
+			[
+				"phonepla",
+				"phoneplaylistdetails.broo"
+			],
+			[
+				"bro",
+				"browser.broo"
+			],
+			[
+				"ma",
+				"matter.broo"
+			],
+			[
+				"phonealb",
+				"phonealbumdetails.broo"
+			],
+			[
+				"pa",
+				"pawmashers.broo"
+			],
+			[
+				"pl",
+				"playlistdetails.broo"
+			],
+			[
+				"ph",
+				"phonequeue.broo"
+			],
+			[
+				"phoneque",
+				"phonequeue.broo"
+			],
+			[
+				"phonesett",
+				"phonesettings.broo"
+			],
+			[
+				"phonesetting",
+				"phonesettings.broo"
+			],
+			[
+				"phonese",
+				"phonesearch.broo"
+			],
+			[
+				"men",
+				"addmenu.broo"
+			],
+			[
+				"dr",
+				"drawables.broo"
+			],
+			[
+				"rhap",
+				"rhapsody.broo"
+			],
+			[
+				"se",
+				"settings.broo"
+			],
+			[
+				"de",
+				"details.broo"
+			],
+			[
+				"wo",
+				"workdetails.broo"
+			],
+			[
+				"ex",
+				"explore.broo"
+			],
+			[
+				"d",
+				"drawables.broo"
+			],
+			[
+				"phonebr",
+				"phonebrowser.broo"
+			],
+			[
+				"init",
+				"init.broo"
+			],
+			[
+				"fon",
+				"fonts.broo"
+			],
+			[
+				"album",
+				"albumdetails.broo"
+			],
+			[
+				"expo",
+				"explore.broo"
+			],
+			[
+				"dar",
+				"drawables.broo"
+			],
+			[
+				"explo",
+				"explore.broo"
+			],
+			[
+				"phonedis",
+				"phonediscover.broo"
+			],
+			[
+				"deskt",
+				"desktopmain.broo"
+			],
+			[
+				"footer",
+				"footer.broo"
+			],
+			[
+				"mad",
+				"templates_dialog.broo"
+			],
+			[
+				"corr",
+				"correction.broo"
+			],
+			[
+				"aler",
+				"alerts.broo"
+			],
+			[
+				"corre",
+				"correction.broo"
+			],
+			[
+				"color",
+				"/Users/briandegman/sooloos/Client/Themes/Creamsicle/colors"
+			],
+			[
+				"ti",
+				"tidal.broo"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
